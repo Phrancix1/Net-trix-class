@@ -1,5 +1,6 @@
-myFullName= "Francis Uko"
-myID=""
-myLanguage= "python"
+myfullname= "Francis Uko"
+myphonenumber= "08155684777"
 myemail= "francouko@gmail.com"
-print("hello world, this is", "myFullName", "myID", "myLanguage", "myemail")
+mylang= "python"
+mypath= "frontend or Ui/Ux or backend"
+print ("hello world, this is", myfullname, myphonenumber, myemail, mylang, mypath,)
